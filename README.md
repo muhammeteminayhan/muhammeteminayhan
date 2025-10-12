@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammet Emin</h1>
-<h3 align="center">A IOS Developer from Turkey</h3>
+<h3 align="center">A Man from Turkiye</h3>
 
 - 🌱 I’m currently learning **data science, python and swift**
 
