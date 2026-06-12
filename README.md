@@ -32,11 +32,13 @@
 | Project | Description | Tech |
 | --- | --- | --- |
 | [**MACHINOVA — CFRP Ra Prediction**](https://github.com/muhammeteminayhan/MACHINOVA-CFRP-Ra-Prediction) | ML surface-roughness predictor for CFRP milling (TUSAŞ Lift Up) — RSM regression, **CV R² = 0.978** — with desktop app &amp; REST API | `Python` · `scikit-learn` · `Flask` |
+| [**Deep Learning Practice**](https://github.com/muhammeteminayhan/deep-learning-practice) | 8 mini-projects across NLP/GenAI (RAG, LSTM, Gemini) &amp; computer vision (CNN, transfer learning, YOLOv8) | `Python` · `TensorFlow` · `RAG` |
 | [**skillswap (İMECE)**](https://github.com/muhammeteminayhan/skillswap) | Two-sided skill-swap marketplace: backend, mobile client &amp; an ML credit-scoring model | `Java` · `Spring Boot` · `Flutter` |
 | [**INGHub Datathon 2025**](https://github.com/muhammeteminayhan/INGHub-Datathon-2025) | Customer churn (erimesi) prediction model built for the ING Hub Datathon | `Python` · `ML` |
 | [**Image Processing GUI**](https://github.com/muhammeteminayhan/image-processing-gui) | Classic image-processing algorithms implemented **from scratch** behind a PyQt5 UI | `Python` · `PyQt5` |
 | [**Gökboru — Air-Defense UI**](https://github.com/muhammeteminayhan/YeniGokboru) | PyQt5 + OpenCV control interface with live camera feed &amp; mission-stage controls | `Python` · `OpenCV` |
 | [**Lung Cancer Classification**](https://github.com/muhammeteminayhan/LungCancerClassification) | CatBoost classifier on patient symptoms — **Mean AUC 0.94** (5-fold CV) | `Python` · `CatBoost` |
+| [**Kalman Filter Tutorial**](https://github.com/muhammeteminayhan/kalman-filter-tutorial) | From-scratch KF &amp; EKF library with 7 worked examples — 1D/2D tracking, sensor fusion &amp; a real drone flight-log case study | `Python` · `NumPy` · `Sensor Fusion` |
 
 > 🔒 Active competition work — **TEKNOFEST 2026 (AI in Aviation)** and the **İKA autonomous ground vehicle** (ROS2 / Nav2 / SLAM) — is kept in **private** repositories during the competition.
 
