@@ -100,13 +100,6 @@ See <a href="https://github.com/muhammeteminayhan/hatma">hatma</a> (published Fl
 <a href="https://github.com/muhammeteminayhan/csharp-coursework">csharp-coursework</a>,
 <a href="https://github.com/muhammeteminayhan/swiftui-playground">swiftui-playground</a>.</sub>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammeteminayhan&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeteminayhan&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
 ---
 
 <p align="center"><i>Open to Computer Vision / Machine Learning Engineer roles — remote or Türkiye-based.</i></p>
